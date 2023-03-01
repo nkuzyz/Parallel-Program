@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1666063714 source:c:\users\administrator\documents\program\gause\main.cpp
+	<iostream>
+	<stdio.h>
+	<pmmintrin.h>
+	<stdlib.h>
+	<algorithm>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+
